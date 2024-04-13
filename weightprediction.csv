@@ -1,0 +1,11 @@
+ID,Height(cm),Weight(kg),Age,Gender,Output
+1,175,70,30,Male,Normal
+2,163,55,25,Female,Underweight
+3,180,80,35,Male,Overweight
+4,155,45,22,Female,Normal
+5,170,65,28,Male,Normal
+6,168,60,26,Female,Normal
+7,185,85,40,Male,Obese
+8,160,50,24,Female,Normal
+9,172,75,32,Male,Overweight
+10,158,48,23,Female,Normal
